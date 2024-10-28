@@ -674,8 +674,8 @@ small {
   }
 }
 
-.card-action {
-  position: relative;
+body .card.large .card-action {
+  position: relative !important;
 }
 
 @media (max-width: 600px) {
